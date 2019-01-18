@@ -1,0 +1,60 @@
+body {
+  text-align: justify;
+  font-size: 13px;
+  background: url(../img/kitchen.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+
+#encabezado {
+  background-color: rgba(38, 98, 226, 0.3);
+  width: 90%;
+  margin: auto;
+  color: white;
+}
+#lema {
+  text-align: right;
+}
+
+#contenedor {
+  background-color: rgba(38, 98, 226, 0.3);
+  padding: 20px;
+  width: 90%;
+  margin: auto;
+}
+#columnaizquierda {
+  background-color: hsla(210, 96%, 48%, 0.8);
+  padding: 20px;
+}
+#accesos {
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#faboritos {
+  padding-top: 20px;
+}
+#imagenesfaboritos {
+  margin: auto;
+}
+#historial {
+  padding-top: 20px;
+}
+
+.blog {
+  background-color: #047AEF;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+.blogImg {
+  padding-left: 0;
+  padding-right: 0;
+}
+.perfil {
+  height: 60px;
+}
